@@ -1,0 +1,1 @@
+proximo_score = 100;

@@ -38,6 +38,7 @@
   },
   "name":"CltRunner",
   "resources":[
+    {"id":{"name":"fnt_fonte1","path":"fonts/fnt_fonte1/fnt_fonte1.yy",},},
     {"id":{"name":"obj_batata","path":"objects/obj_batata/obj_batata.yy",},},
     {"id":{"name":"obj_chocolate","path":"objects/obj_chocolate/obj_chocolate.yy",},},
     {"id":{"name":"obj_clt_pai","path":"objects/obj_clt_pai/obj_clt_pai.yy",},},

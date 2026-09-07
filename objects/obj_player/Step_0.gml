@@ -15,6 +15,7 @@ if (dir)
 if (vida <= 0)
 {
 	instance_destroy();	
+	game_restart();
 }
 
 
