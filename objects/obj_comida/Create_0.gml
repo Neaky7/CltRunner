@@ -2,6 +2,8 @@ image_xscale = 2
 image_yscale = image_xscale
 vspeed = 2;
 
+pontos = 2;
+
 obj_nome = (object_index);
 
 tempo_spawn = 120;

@@ -12,16 +12,16 @@ if (dir)
 	image_xscale = -2
 }
 
+if (vida <= 0)
+{
+	instance_destroy();	
+}
 
 
-
-
-
-
-image_speed = anim_vel + .1;
+image_speed += global.adc_vel;
 
 rua_id = layer_get_id("rua_back");
+layer_vspeed(rua_id, rua_vel);
+rua_vel += global.adc_vel;
 
-layer_vspeed(rua_id, rua_vel * 1);
-
-show_debug_message(image_speed);
+show_debug_message(global.pontos);
