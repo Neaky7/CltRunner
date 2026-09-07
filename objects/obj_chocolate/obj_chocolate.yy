@@ -6,8 +6,8 @@
   "name":"obj_chocolate",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Itens",
+    "path":"folders/Objects/Itens.yy",
   },
   "parentObjectId":{
     "name":"obj_comida",

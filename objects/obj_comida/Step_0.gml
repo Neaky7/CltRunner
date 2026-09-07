@@ -3,4 +3,5 @@ if (y >= 672)
 	instance_destroy();
 }
 
-vspeed += global.adc_vel
+
+vspeed = global.velocidade_atual;

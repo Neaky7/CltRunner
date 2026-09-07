@@ -1,1 +1,3 @@
-tempo_spawn = 120;
+//iniciando variável de tempo
+tempo_spawn = 60;
+

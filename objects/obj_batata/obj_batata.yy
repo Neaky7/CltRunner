@@ -10,8 +10,8 @@
   "name":"obj_batata",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Itens",
+    "path":"folders/Objects/Itens.yy",
   },
   "parentObjectId":{
     "name":"obj_comida",
