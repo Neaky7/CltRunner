@@ -46,6 +46,7 @@
     {"id":{"name":"obj_coxinha","path":"objects/obj_coxinha/obj_coxinha.yy",},},
     {"id":{"name":"obj_pai","path":"objects/obj_pai/obj_pai.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
     {"id":{"name":"obj_rua","path":"objects/obj_rua/obj_rua.yy",},},
     {"id":{"name":"obj_space","path":"objects/obj_space/obj_space.yy",},},
     {"id":{"name":"rm_intro1","path":"rooms/rm_intro1/rm_intro1.yy",},},
